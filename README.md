@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there 👋 I'm Mim
 
-<!--
-**mohsen-mahmoodi/mohsen-mahmoodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering Leader with ~18 years in backend and distributed systems.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Build and scale distributed systems
+- Lead engineering teams
+- Design event-driven architectures
+
+## 🔭 I’m currently working on **OpenOutbox** 
+
+An open standard + reference implementation for transactional outbox systems  
+
+→ [Openoutbox-Spec](https://github.com/open-outbox/openoutbox-spec)
+→ [Openoutbox-Relay](https://github.com/open-outbox/openoutbox-relay)
+
+## 🌱 I’m currently learning
+
+→ Go development
+→ Psychological Leadership
+
+## 👯 I’m looking to collaborate on
+
+→ Platform Services that can scale
+→ Open source products that solve real problems
+→ Ideas for new startups that can change the world
+
+## 📫 How to reach me
+→ LinkedIn: https://www.linkedin.com/in/mohsen-mahmoodi/
