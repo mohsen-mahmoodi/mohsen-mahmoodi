@@ -8,12 +8,12 @@ Engineering Leader with ~18 years in backend and distributed systems.
 - Lead engineering teams
 - Design event-driven architectures
 
-## 🔭 I’m currently working on **OpenOutbox** 
+## 🔭 I’m currently working on **Open Outbox** 
 
 An open standard + reference implementation for transactional outbox systems  
 
-- [Openoutbox-Spec](https://github.com/open-outbox/spec)
-- [Openoutbox-Relay](https://github.com/open-outbox/relay)
+- [Open Outbox-Spec](https://github.com/open-outbox/spec)
+- [Open Outbox-Relay](https://github.com/open-outbox/relay)
 
 ## 🌱 I’m currently learning
 
