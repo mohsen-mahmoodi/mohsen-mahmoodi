@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mim
 
-Engineering Leader with 15 years in backend and distributed systems.
+Engineering Leader with ~20 years in backend and distributed systems.
 
 ## What I do
 
