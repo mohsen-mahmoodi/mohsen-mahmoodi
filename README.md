@@ -10,9 +10,7 @@ Engineering Leader with 15 years in backend and distributed systems.
 
 ## 🔭 I’m currently working on [**Open Outbox**](https://open-outbox.dev/)
 
-An open standard + reference implementation for transactional outbox systems
-
-- [Open Outbox-Spec](https://github.com/open-outbox/spec)
+A go based high performance outbox relay
 - [Open Outbox-Relay](https://github.com/open-outbox/relay)
 
 ## 🌱 I’m currently learning
